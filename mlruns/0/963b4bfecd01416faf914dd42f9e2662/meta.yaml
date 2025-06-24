@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/963b4bfecd01416faf914dd42f9e2662/artifacts
+end_time: 1750759916019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 963b4bfecd01416faf914dd42f9e2662
+run_name: whimsical-swan-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750759899602
+status: 3
+tags: []
+user_id: dell

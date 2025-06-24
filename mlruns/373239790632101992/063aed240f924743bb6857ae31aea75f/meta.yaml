@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/373239790632101992/063aed240f924743bb6857ae31aea75f/artifacts
+end_time: 1750780523042
+entry_point_name: ''
+experiment_id: '373239790632101992'
+lifecycle_stage: active
+run_id: 063aed240f924743bb6857ae31aea75f
+run_name: mercurial-robin-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750779818164
+status: 3
+tags: []
+user_id: dell

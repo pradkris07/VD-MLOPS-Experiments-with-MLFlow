@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/23b43ce266b248bd9d2b06745435fa2a/artifacts
+end_time: 1750756496852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23b43ce266b248bd9d2b06745435fa2a
+run_name: efficient-deer-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750756491723
+status: 3
+tags: []
+user_id: dell

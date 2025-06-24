@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0457e88219b94281a50ab0ff9b9179dc/artifacts
+end_time: 1750758690187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0457e88219b94281a50ab0ff9b9179dc
+run_name: agreeable-hound-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750758687215
+status: 3
+tags: []
+user_id: dell
