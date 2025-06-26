@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/a3f7174ca715448c81228df8f1c8854c/artifacts
+end_time: 1750914757881
+entry_point_name: ''
+experiment_id: '834621658742529178'
+lifecycle_stage: active
+run_id: a3f7174ca715448c81228df8f1c8854c
+run_name: rare-snail-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750913776134
+status: 3
+tags: []
+user_id: dell

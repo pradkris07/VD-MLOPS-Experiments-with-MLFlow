@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/7e6a1718e57c4e599dbc01d7d16a1dfb/artifacts
+end_time: 1750913963196
+entry_point_name: ''
+experiment_id: '834621658742529178'
+lifecycle_stage: active
+run_id: 7e6a1718e57c4e599dbc01d7d16a1dfb
+run_name: salty-flea-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750913961917
+status: 3
+tags: []
+user_id: dell

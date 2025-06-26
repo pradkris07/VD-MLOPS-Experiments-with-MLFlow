@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/fa9d0a9786244976b689a1cc5314b3c3/artifacts
+end_time: 1750913972450
+entry_point_name: ''
+experiment_id: '834621658742529178'
+lifecycle_stage: active
+run_id: fa9d0a9786244976b689a1cc5314b3c3
+run_name: sedate-gnu-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750913968456
+status: 3
+tags: []
+user_id: dell

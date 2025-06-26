@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/0c766ccffd5a4e669d5df7d97b254070/artifacts
+end_time: 1750913976160
+entry_point_name: ''
+experiment_id: '834621658742529178'
+lifecycle_stage: active
+run_id: 0c766ccffd5a4e669d5df7d97b254070
+run_name: melodic-chimp-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750913974956
+status: 3
+tags: []
+user_id: dell

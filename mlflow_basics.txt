@@ -1,4 +1,5 @@
 MLflow is a powerful tool for tracking and managing machine learning experiments. Here’s a list of things that can be tracked/logged using MLflow, which you can include in your tutorial documentation:
+use the command mlflow ui for opening the MLflow front end screen
 
 ### 1. **Metrics:**
    - **Accuracy**: Track model accuracy over different runs.

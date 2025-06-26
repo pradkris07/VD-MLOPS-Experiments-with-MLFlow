@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/7a018dc338c44972b1f9f517b855538d/artifacts
+end_time: 1750913960436
+entry_point_name: ''
+experiment_id: '834621658742529178'
+lifecycle_stage: active
+run_id: 7a018dc338c44972b1f9f517b855538d
+run_name: awesome-lynx-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750913960154
+status: 3
+tags: []
+user_id: dell

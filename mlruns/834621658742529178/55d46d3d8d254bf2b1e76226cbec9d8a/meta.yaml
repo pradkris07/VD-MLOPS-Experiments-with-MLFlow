@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/55d46d3d8d254bf2b1e76226cbec9d8a/artifacts
+end_time: 1750913968441
+entry_point_name: ''
+experiment_id: '834621658742529178'
+lifecycle_stage: active
+run_id: 55d46d3d8d254bf2b1e76226cbec9d8a
+run_name: learned-flea-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750913966220
+status: 3
+tags: []
+user_id: dell

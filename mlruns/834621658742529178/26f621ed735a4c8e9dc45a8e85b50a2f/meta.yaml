@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/26f621ed735a4c8e9dc45a8e85b50a2f/artifacts
+end_time: 1750913973721
+entry_point_name: ''
+experiment_id: '834621658742529178'
+lifecycle_stage: active
+run_id: 26f621ed735a4c8e9dc45a8e85b50a2f
+run_name: luminous-crab-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750913972496
+status: 3
+tags: []
+user_id: dell

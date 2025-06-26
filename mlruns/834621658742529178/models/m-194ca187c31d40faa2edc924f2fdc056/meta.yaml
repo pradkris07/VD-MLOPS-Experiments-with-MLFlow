@@ -1,0 +1,10 @@
+artifact_location: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/models/m-194ca187c31d40faa2edc924f2fdc056/artifacts
+creation_timestamp: 1750914017526
+experiment_id: '834621658742529178'
+last_updated_timestamp: 1750914757835
+model_id: m-194ca187c31d40faa2edc924f2fdc056
+model_type: null
+name: random_forest
+source_run_id: a3f7174ca715448c81228df8f1c8854c
+status: 2
+status_message: null

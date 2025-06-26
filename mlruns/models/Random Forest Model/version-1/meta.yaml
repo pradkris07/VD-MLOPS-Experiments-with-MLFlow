@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1750915829845
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1750915829845
+metrics: null
+model_id: m-194ca187c31d40faa2edc924f2fdc056
+name: Random Forest Model
+params: null
+run_id: ''
+run_link: ''
+source: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/models/m-194ca187c31d40faa2edc924f2fdc056/artifacts
+status: READY
+status_message: null
+storage_location: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/models/m-194ca187c31d40faa2edc924f2fdc056/artifacts
+user_id: null
+version: 1

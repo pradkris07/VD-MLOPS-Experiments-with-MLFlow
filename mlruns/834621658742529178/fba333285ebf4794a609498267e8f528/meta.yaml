@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/fba333285ebf4794a609498267e8f528/artifacts
+end_time: 1750913977046
+entry_point_name: ''
+experiment_id: '834621658742529178'
+lifecycle_stage: active
+run_id: fba333285ebf4794a609498267e8f528
+run_name: tasteful-skink-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750913976191
+status: 3
+tags: []
+user_id: dell

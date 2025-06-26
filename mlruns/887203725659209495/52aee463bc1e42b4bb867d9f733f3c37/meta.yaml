@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/887203725659209495/52aee463bc1e42b4bb867d9f733f3c37/artifacts
+end_time: 1750863054097
+entry_point_name: ''
+experiment_id: '887203725659209495'
+lifecycle_stage: active
+run_id: 52aee463bc1e42b4bb867d9f733f3c37
+run_name: classy-bat-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750862037419
+status: 3
+tags: []
+user_id: dell

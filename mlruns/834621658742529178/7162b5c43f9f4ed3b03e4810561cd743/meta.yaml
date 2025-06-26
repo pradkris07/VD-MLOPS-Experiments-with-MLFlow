@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/7162b5c43f9f4ed3b03e4810561cd743/artifacts
+end_time: 1750913961886
+entry_point_name: ''
+experiment_id: '834621658742529178'
+lifecycle_stage: active
+run_id: 7162b5c43f9f4ed3b03e4810561cd743
+run_name: receptive-panda-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750913961007
+status: 3
+tags: []
+user_id: dell

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/BKP/Learning/MLOPS/VD-MLOPS-Experiments-with-MLFlow/mlruns/834621658742529178/217b637ae3f74a08af5f66cf7fb4b611/artifacts
+end_time: 1750913966198
+entry_point_name: ''
+experiment_id: '834621658742529178'
+lifecycle_stage: active
+run_id: 217b637ae3f74a08af5f66cf7fb4b611
+run_name: fortunate-bear-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750913964230
+status: 3
+tags: []
+user_id: dell

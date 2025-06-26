@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/887203725659209495/758df584dfa047789b87cf9561ed843b/artifacts
+end_time: 1750905706417
+entry_point_name: ''
+experiment_id: '887203725659209495'
+lifecycle_stage: active
+run_id: 758df584dfa047789b87cf9561ed843b
+run_name: thundering-squid-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750905128120
+status: 3
+tags: []
+user_id: dell
